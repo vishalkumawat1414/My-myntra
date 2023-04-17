@@ -1,0 +1,21 @@
+nav{
+    background-color: rgb(242, 149, 20);
+    padding: 8px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px,4px,4px rgb(17, 17, 17);
+}
+.banner{
+    color: rgb(52, 49, 49);
+    font-size: 3rem;
+    box-shadow: px ,3px,3px black;
+}
+.cart-layout{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 2rem;
+
+}
